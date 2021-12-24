@@ -32,7 +32,7 @@ $ ./LightTrack 01.mp4
 ### export out.avi
 ```
 # in host bash
-$ adb pull /userdata/install/lighttrack_demo/out.avi
+$ adb pull /userdata/out.avi
 ```
 
 
